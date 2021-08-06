@@ -1,0 +1,3 @@
+object {
+    fun processInfo() = true
+}
